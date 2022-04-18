@@ -1,0 +1,11 @@
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\bin\x64\Debug\FullSailAFI.GamePlaying.ExampleAI.dll
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\bin\x64\Debug\Graphviz4Net.dll
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\bin\x64\Debug\Antlr3.Runtime.dll
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\bin\x64\Debug\Graphviz4Net.pdb
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\obj\x64\Debug\CoreAI.csproj.AssemblyReference.cache
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\obj\x64\Debug\CoreAI.csproj.CoreCompileInputs.cache
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\obj\x64\Debug\CoreAI.csproj.CopyComplete
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\obj\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\obj\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb

@@ -1,0 +1,13 @@
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.pdb
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.ExampleAI.dll
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\Graphviz4Net.dll
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\Antlr3.Runtime.dll
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\Graphviz4Net.pdb
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\obj\x64\Debug\StudentAI.csproj.AssemblyReference.cache
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\obj\x64\Debug\StudentAI.csproj.CoreCompileInputs.cache
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\obj\x64\Debug\StudentAI.csproj.CopyComplete
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\obj\x64\Debug\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Artificial Inteligent\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\obj\x64\Debug\FullSailAFI.GamePlaying.StudentAI.pdb
